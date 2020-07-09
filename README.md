@@ -39,6 +39,8 @@ I use following medium(s) regularly. Feel free to reach out
 
 ---
 
+[![HitCount](http://hits.dwyl.com/harshraj22/harshraj22.svg)](http://hits.dwyl.com/harshraj22/harshraj22)
+
 
 <!--
 **harshraj22/harshraj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
