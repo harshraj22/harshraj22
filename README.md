@@ -1,7 +1,7 @@
 <img align="left" src="https://gist.githubusercontent.com/harshraj22/3092e29adcdfe266114567e3d6dcfdea/raw/cce67d0f340a7e557c220d573cf780cd66729873/AboutMe.gif" height="190px" width="450px"> 
 <div>
   <h3 align="right">Helloo :wave: <i>GitHubers</i> :relaxed:</h3>
-  <p align="right">I'm a Backend Developer and AI Enthusiast. I got interested in programming when I understood how a <code>for loop</code> works 😮 in 2018 and since then I got interested in CS and have never looked back. Right now I write (and work) with Python, C++, MySql &amp; Javascript. I am a competitive programmer, and love 💜 to be a part of programming &amp; Open-Source communities.</p>
+  <p align="right"><strong>I'm Harsh, </strong> a Backend Developer and AI Enthusiast. I got interested in programming when I understood how a <code>for loop</code> works 😮 in 2018 and since then I got interested in CS and have never looked back. Right now I write (and work) with Python, C++, MySql &amp; Javascript. I am a competitive programmer, and love 💜 to be a part of programming &amp; Open-Source communities.</p>
 </div>
 
 
