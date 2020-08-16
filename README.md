@@ -34,7 +34,7 @@ I use following medium(s) regularly. Feel free to reach out
 ### What else ❔
 
 <!-- - 😄 Pronouns: (He/Him) -->
-- ⚡ Fun fact: I love to read and discuss about latest technologies. 
+- ⚡ Fun fact: I love to read, follow and discuss about software enginnering practices like code redability, scalability and maintainability. 
 - Also I am looking for some remote work opportunities (going to graduate in 2022 hopefully)
 
 ---
