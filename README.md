@@ -27,7 +27,7 @@ I use following medium(s) regularly. Feel free to reach out
 ### What is Harsh upto nowadays 👀
 
 - 🌱 I’m currently learning ...
-   - Computer Visioin And NLP
+   - Computer Vision And NLP
 - 🔭 I’m currently working on ...
     - All of my pinned projects below 👇 (& more hidden ones)
 
